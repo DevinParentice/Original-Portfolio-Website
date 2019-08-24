@@ -27,6 +27,8 @@ h1, h3, h4, h5, h6, p, a > h4 {
 }
 .map-img {
     padding-top: 6rem;
+    user-drag: none; 
+    user-select: none;
 }
 .btn-info {
     margin-top: 1rem;
